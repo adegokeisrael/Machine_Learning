@@ -1,1 +1,1 @@
-# recommendation-system
+# machine learning algorithms and implimentation
